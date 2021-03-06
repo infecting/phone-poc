@@ -1,0 +1,12 @@
+{
+  "store_name": "Starbucks",
+  "phone_number": "8007827282",
+  "webhook_picture": "https://www.ishn.com/ext/resources/logos/900x500/starbucks-logo-900.jpg?1556110290",
+  "captcha": "after",
+  "time_limit": 65,
+  "prefix": "WWWWWWWW1WWW1WWWWWWWWWW1WWW1WWWWWWw",
+  "suffix": "#",
+  "captcha_start_time": 50,
+  "captcha_record_time": 5,
+  "call_end_time": 20
+}
